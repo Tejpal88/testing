@@ -1,5 +1,5 @@
-resource "azurerm_resource_group" "rg-bulbul" {
-    name = "bulbul-rg"
-    location = "centralindia"
-  
+resource "azurerm_resource_group" "rg1" {
+  name = "rg1"
+  location = "eastus"
 }
+
